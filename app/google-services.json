@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "836818867395",
+    "project_id": "talk-time-backend",
+    "storage_bucket": "talk-time-backend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836818867395:android:2418606210bae6caa03e76",
+        "android_client_info": {
+          "package_name": "com.example.talktime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApGB_cGLHLqdGq_aU2hPkQboRfmsIy27Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
